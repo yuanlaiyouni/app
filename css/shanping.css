@@ -1,0 +1,78 @@
+#box{
+	width: 100%;
+	height: auto;
+	position: absolute;
+	top: 0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	margin: auto;
+
+	/* background-color: #F37822; */
+}
+.box1{
+	width: 100%;
+	height: 13.34rem;
+	background-color: #F37822;
+}
+.box2{
+	width: 100%;
+	height: 13.34rem;
+	background-color: #FFC334;
+}
+.box3{
+	width: 100%;
+	height: 13.34rem;
+	background-color: #EA4B4F;
+}
+.wdj-top{
+	width: 100%;
+	height: 4.86rem;
+}
+.house{
+	width: 6.67rem;
+	/* height: 6.22rem; */
+	margin: 0 auto;
+	/* margin-top: .9rem; */
+	display: block;
+}
+.kaiqi{
+	width: 2.24rem;
+	height: .64rem;
+	/* background-color: pink; */
+	margin-top: .43rem;
+	/* margin: 0 auto; */
+	display: block;
+	margin-left: 2.62rem;
+	border-radius: .1rem;
+	border: .02rem solid #fff;
+}
+.kaiti-left{
+	width: .04rem;
+	height: .04rem;
+	background-color: #fff;
+	float: left;
+	display: block;
+	margin-top: .28rem;
+	margin-left: .13rem;
+	border-radius: 50%;
+}
+.kaiqi span{
+	font-size: .24rem;
+	color: #fff;
+	float: left;
+	margin-top: .12rem;
+	margin-left: .2rem;
+	font-family: "苹方";
+	font-weight: 900;
+} 
+.kaiti-right{
+	width: .04rem;
+	height: .04rem;
+	background-color: #fff;
+	float: right;
+	display: block;
+	margin-top: .28rem;
+	margin-right: .13rem;
+	border-radius: 50%;
+}
